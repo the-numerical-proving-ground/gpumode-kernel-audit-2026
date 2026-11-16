@@ -14,7 +14,7 @@ authors:
 version: 1.0.2
 date-released: 2026-11-11
 license: CC-BY-4.0
-repository-code: "https://github.com/VSCL-x-VERITAS/gpumode-kernel-audit-2026"
+repository-code: "https://github.com/theprovingground/gpumode-kernel-audit-2026"
 abstract: >-
   Results of an independent audit of the five top-ranked entries on each of the four
   leaderboards of the 2026 GPU MODE competitions for fast GPU linear-algebra kernels:

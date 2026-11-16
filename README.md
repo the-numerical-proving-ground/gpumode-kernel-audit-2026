@@ -441,7 +441,7 @@ Cite the version you used (see `CITATION.cff`):
   author       = {Melnichenko, Maksim},
   title        = {{GPU MODE} linear-algebra kernel audit, 2026: results record},
   year         = {2026},
-  howpublished = {\url{https://github.com/VSCL-x-VERITAS/gpumode-kernel-audit-2026}},
+  howpublished = {\url{https://github.com/theprovingground/gpumode-kernel-audit-2026}},
   note         = {Version 1.0.2, git tag v1.0.2}
 }
 ```
